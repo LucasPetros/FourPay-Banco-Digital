@@ -3,8 +3,9 @@
 <div align="center">
 
 
-[![GitHub stars](https://img.shields.io/github/stars/lucaspetros/FourPay)](https://github.com/lucaspetros/FourPay/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/lucaspetros/FourPay)](https://github.com/lucaspetros/FourPay/blob/master/LICENSE
-)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/lucaspetros/FourPay)](https://github.com/lucaspetros/FourPay/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/LucasPetros/FourPay)](https://github.com/LucasPetros/FourPay/stargazers)<space> <space>
+[![GitHub license](https://img.shields.io/github/license/LucasPetros/FourPay)](https://github.com/LucasPetros/FourPay/blob/main/LICENSE)<space> <space>
+[![GitHub forks](https://img.shields.io/github/forks/LucasPetros/FourPay)](https://github.com/LucasPetros/FourPay/network/members)
 
   </div>
   
